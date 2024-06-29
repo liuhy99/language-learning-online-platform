@@ -2,7 +2,7 @@
 
 ### :page_facing_up: Introduction
 
-Due to the impact of the 2020 epidemic, more and more people choose to study online. Self-study faces the difficulties of scattered materials and it is difficult for one person to persist for a long time. Therefore, the idea came to me to design and develop an online language learning communication platform for self-study students to obtain information and communicate with each other.
+Due to the impact of the COVID-19, more and more people choose to study online. Self-study faces the difficulties of scattered materials and it is difficult for one person to persist for a long time. Therefore, the idea came to me to design and develop an online language learning communication platform for self-study students to obtain information and communicate with each other.
 
 The overall design and development: 
 
